@@ -1,5 +1,5 @@
 const { MongoClient, ServerApiVersion } = require('mongodb');
-const uri = "mongodb+srv://JonR20:Mj23jm43@cluster0.vecz3dn.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://JonR20:<password>@cluster0.vecz3dn.mongodb.net/?retryWrites=true&w=majority";
 const dbName = 'Clients'; 
 const collectionName = 'Names';
 
